@@ -1,0 +1,11 @@
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.exe
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.deps.json
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.runtimeconfig.json
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.runtimeconfig.dev.json
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.dll
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\bin\Debug\netcoreapp3.1\Project-1B.pdb
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\obj\Debug\netcoreapp3.1\Project-1B.csprojAssemblyReference.cache
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\obj\Debug\netcoreapp3.1\Project-1B.AssemblyInfoInputs.cache
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\obj\Debug\netcoreapp3.1\Project-1B.AssemblyInfo.cs
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\obj\Debug\netcoreapp3.1\Project-1B.dll
+C:\Users\Çagla\Desktop\informatica\Project\Project-1B\obj\Debug\netcoreapp3.1\Project-1B.pdb
